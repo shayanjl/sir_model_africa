@@ -88,7 +88,8 @@ Pkg.add("Plots")
 
 The simulation will generate a population vs. time plot:
 
-![SIR Simulation Plot](./sir_plot.png)
+![sir_model_africa](https://github.com/user-attachments/assets/20261930-9d8e-49a6-8d8d-bc7b529546ea)
 
 You can also generate a GIF animation by uncommenting the animation section in the script.
+
 
